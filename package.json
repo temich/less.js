@@ -1,13 +1,11 @@
 {
-  "name"          : "less",
-  "description"   : "Leaner CSS",
+  "name"          : "less-context-functions",
+  "description"   : "Leaner CSS with context bound functions",
   "url"           : "http://lesscss.org",
   "keywords"      : ["css", "parser", "lesscss", "browser"],
   "author"        : "Alexis Sellier <self@cloudhead.net>",
   "contributors"  : [],
-  "version"       : "1.3.0",
-  "bin"           : { "lessc": "./bin/lessc" },
+  "version"       : "0.0.1",
   "main"          : "./lib/less/index",
-  "directories"   : { "test": "./test" },
   "engines"       : { "node": ">=0.4.0" }
 }
